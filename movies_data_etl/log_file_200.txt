@@ -1,0 +1,19 @@
+2024-Sep-19-12:41:00: Starting scraping pipeline
+2024-Sep-19-12:41:00: HTML Content retreived
+2024-Sep-19-12:41:00: Finding table records
+2024-Sep-19-12:42:12: Starting scraping pipeline
+2024-Sep-19-12:42:13: HTML Content retreived
+2024-Sep-19-12:42:13: Finding table records
+2024-Sep-19-12:42:13: All records obtained
+2024-Sep-19-12:42:13: Filtered records to year 2000
+2024-Sep-19-12:42:13: Saving data to csv file
+2024-Sep-19-12:42:13: Saving data to database inside prepared_data/movies.db directory
+2024-Sep-19-12:42:13: Scraping job ended
+2024-Sep-19-12:44:27: Starting scraping pipeline
+2024-Sep-19-12:44:27: HTML Content retreived
+2024-Sep-19-12:44:27: Finding table records
+2024-Sep-19-12:44:27: All records obtained
+2024-Sep-19-12:44:27: Filtered records to year 2000
+2024-Sep-19-12:44:27: Saving data to csv file
+2024-Sep-19-12:44:27: Saving data to database inside prepared_data/movies.db directory
+2024-Sep-19-12:44:27: Scraping job ended

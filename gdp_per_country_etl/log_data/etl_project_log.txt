@@ -1,0 +1,13 @@
+2024-Sep-20-17:31:01: Requesting website information
+2024-Sep-20-17:31:01: Starting the scraping job
+2024-Sep-20-17:31:03: Finding the specific table by class
+2024-Sep-20-17:31:03: Extracting table data
+2024-Sep-20-17:31:03: Skipping row with insufficient data: []
+2024-Sep-20-17:31:03: Skipping row with insufficient data: []
+2024-Sep-20-17:31:03: Successfully extracted data from source
+2024-Sep-20-17:31:03: Converting strings to numbers
+2024-Sep-20-17:31:03: converting to billions and rounding values
+2024-Sep-20-17:31:03: Successfully transformed data
+2024-Sep-20-17:31:03: Saving data to prepared_data directory as prepared_data/Countries_by_GDP.json
+2024-Sep-20-17:31:03: Saving data to database prepared_data/World_Economies.db inside table Countries_by_GDP
+2024-Sep-20-17:31:03: Scraping job ended successfully

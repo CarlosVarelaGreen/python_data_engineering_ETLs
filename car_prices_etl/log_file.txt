@@ -1,0 +1,76 @@
+2024-Sep-18-17:45:34: Starting ETL pipeline
+2024-Sep-18-17:45:34: Data extraction starting...
+2024-Sep-18-17:46:23: Starting ETL pipeline
+2024-Sep-18-17:46:23: Data extraction starting...
+2024-Sep-18-17:47:18: Starting ETL pipeline
+2024-Sep-18-17:47:18: Data extraction starting...
+2024-Sep-18-17:48:59: Starting ETL pipeline
+2024-Sep-18-17:48:59: Data extraction starting...
+2024-Sep-18-17:49:35: Starting ETL pipeline
+2024-Sep-18-17:49:35: Data extraction starting...
+2024-Sep-18-17:50:35: Starting ETL pipeline
+2024-Sep-18-17:50:35: Data extraction starting...
+2024-Sep-18-17:54:22: Starting ETL pipeline
+2024-Sep-18-17:54:22: Data extraction starting...
+2024-Sep-18-17:54:22: Data extraction completed succesfully
+2024-Sep-18-17:54:22: Transformations starting...
+2024-Sep-18-17:54:22: Data transformed successfully
+2024-Sep-18-17:54:22: Load phase Started
+2024-Sep-18-17:54:22: Load phase Ended
+2024-Sep-18-17:54:22: ETL Job Ended Successfully
+2024-Sep-18-17:55:59: Starting ETL pipeline
+2024-Sep-18-17:55:59: Data extraction starting...
+2024-Sep-18-17:55:59: Data extraction completed succesfully
+2024-Sep-18-17:55:59: Transformations starting...
+2024-Sep-18-17:55:59: Data transformed successfully
+2024-Sep-18-17:55:59: Load phase Started
+2024-Sep-18-17:55:59: Load phase Ended
+2024-Sep-18-17:55:59: ETL Job Ended Successfully
+2024-Sep-18-17:58:54: Starting ETL pipeline
+2024-Sep-18-17:58:54: Data extraction starting...
+2024-Sep-18-17:58:54: Data extraction completed successfully
+2024-Sep-18-17:58:54: Transformations starting...
+2024-Sep-18-17:58:54: Data transformed successfully
+2024-Sep-18-17:58:54: Load phase Started
+2024-Sep-18-17:58:54: Load phase Ended
+2024-Sep-18-17:58:54: ETL Job Ended Successfully
+2024-Sep-18-17:59:26: Starting ETL pipeline
+2024-Sep-18-17:59:26: Data extraction starting...
+2024-Sep-18-17:59:26: Data extraction completed successfully
+2024-Sep-18-17:59:26: Transformations starting...
+2024-Sep-18-17:59:26: Data transformed successfully
+2024-Sep-18-17:59:26: Load phase Started
+2024-Sep-18-17:59:26: Load phase Ended
+2024-Sep-18-17:59:26: ETL Job Ended Successfully
+2024-Sep-18-18:00:45: Starting ETL pipeline
+2024-Sep-18-18:00:45: Data extraction starting...
+2024-Sep-18-18:00:45: Data extraction completed successfully
+2024-Sep-18-18:00:45: Transformations starting...
+2024-Sep-18-18:00:45: Data transformed successfully
+2024-Sep-18-18:00:45: Load phase Started
+2024-Sep-18-18:00:45: Load phase Ended
+2024-Sep-18-18:00:45: ETL Job Ended Successfully
+2024-Sep-19-10:05:17: Starting ETL pipeline
+2024-Sep-19-10:05:17: Data extraction starting...
+2024-Sep-19-10:05:17: Data extraction completed successfully
+2024-Sep-19-10:05:17: Transformations starting...
+2024-Sep-19-10:05:17: Data transformed successfully
+2024-Sep-19-10:05:17: Load phase Started
+2024-Sep-19-10:05:17: Load phase Ended
+2024-Sep-19-10:05:17: ETL Job Ended Successfully
+2024-Sep-19-10:06:14: Starting ETL pipeline
+2024-Sep-19-10:06:14: Data extraction starting...
+2024-Sep-19-10:06:14: Data extraction completed successfully
+2024-Sep-19-10:06:14: Transformations starting...
+2024-Sep-19-10:06:14: Data transformed successfully
+2024-Sep-19-10:06:14: Load phase Started
+2024-Sep-19-10:06:14: Load phase Ended
+2024-Sep-19-10:06:14: ETL Job Ended Successfully
+2024-Sep-19-10:09:49: Starting ETL pipeline
+2024-Sep-19-10:09:49: Data extraction starting...
+2024-Sep-19-10:09:49: Data extraction completed successfully
+2024-Sep-19-10:09:49: Transformations starting...
+2024-Sep-19-10:09:49: Data transformed successfully
+2024-Sep-19-10:09:49: Load phase Started
+2024-Sep-19-10:09:49: Load phase Ended
+2024-Sep-19-10:09:49: ETL Job Ended Successfully
